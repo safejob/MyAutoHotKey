@@ -1,0 +1,8 @@
+
+shell:Common Startup
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+
+C:\Users\DongPC\AppData\Roaming\Microsoft\Windo
+
+复制快捷方式至上述目录
