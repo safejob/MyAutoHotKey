@@ -43,3 +43,5 @@ ActivateAndOpen(t,p)
 ; 第二个参数是应用程序的全路径
 ;#e::ActivateAndOpen("ahk_exe SecureCRT.exe","D:\Program Files\SecureCRT85\SecureCRT.exe")
 #e::ActivateAndOpen("ahk_exe SecureCRT.exe","D:\Program Files\SecureCRT85\SecureCRT.exe /S 0堡垒机-172.16.30.179-key")
+^w::ActivateAndOpen("ahk_exe 启用触控板.bat","D:\Program Files\DevCon\amd64\启用触控板.lnk")
+^e::ActivateAndOpen("ahk_exe 禁用触控板.bat","D:\Program Files\DevCon\amd64\禁用触控板.lnk")
