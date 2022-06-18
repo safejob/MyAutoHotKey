@@ -10,5 +10,5 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:grep::`grep --color -n `
 :*:.f::./*.conf
 
-::ll::ls -lh --color=always
+::ll::ls -lh --color=always --time-style=long-iso -tr
 #IfWinActive
